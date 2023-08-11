@@ -1,0 +1,2 @@
+# W5100S_Pico_Raspberrypi4_AI_YOLO
+W5100S_Pico_Raspberrypi4_AI_YOLO Fidge , Please
