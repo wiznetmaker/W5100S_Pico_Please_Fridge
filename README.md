@@ -94,8 +94,10 @@ The code should work fine, so feel free to adapt it to your environment. You jus
 
 ## **Telegram Setting**
 First, sign up for Telegram and add 'BotFather' as a friend. and /newbot to create a bot and receive a token.  
-![627693803_1691758738](https://github.com/jh941213/Please_Fidge/assets/112835087/6559f339-4e1b-4483-872b-d5c5712378bd)
-![627693803_1691758957](https://github.com/jh941213/Please_Fidge/assets/112835087/3af30342-af90-4eb8-9227-11cb2ac3cf26)
+<img src="https://github.com/jh941213/Please_Fidge/assets/112835087/6559f339-4e1b-4483-872b-d5c5712378bd" width="300">
+<br>
+<img src="https://github.com/jh941213/Please_Fidge/assets/112835087/3af30342-af90-4eb8-9227-11cb2ac3cf26" width="300">
+
 
 If you see a token like that, your bot has been created. We send the bot a message "hello"
 <img width="768" alt="627693803_1691759164" src="https://github.com/jh941213/Please_Fidge/assets/112835087/a69bb6ae-4733-4e7b-bda4-47559d7390b2">
@@ -112,7 +114,9 @@ If you're not sure, check out the link above!🔥
 ## **5. Result**
 The results of the project. Prepare delicious dishes with ingredients from your fridge!
 
-![1](https://github.com/jh941213/Please_Fidge/assets/112835087/3cfe625e-ef46-4538-bcb1-d52355038684)
-![2](https://github.com/jh941213/Please_Fidge/assets/112835087/0028767b-6a96-4c81-abf7-c4a195cbcf5f)
+<img src="https://github.com/jh941213/Please_Fidge/assets/112835087/3cfe625e-ef46-4538-bcb1-d52355038684" width="300">    
+<br>
+<img src="https://github.com/jh941213/Please_Fidge/assets/112835087/0028767b-6a96-4c81-abf7-c4a195cbcf5f" width="300">  
+
 ![RPReplay_Final1691731367_MP4_AdobeExpress](https://github.com/jh941213/Please_Fidge/assets/112835087/f1814748-7009-412a-bde9-f2b2b4c5ca88)
 
